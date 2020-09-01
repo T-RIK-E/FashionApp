@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350190956725",
+    "firebase_url": "https://fashimongo.firebaseio.com",
+    "project_id": "fashimongo",
+    "storage_bucket": "fashimongo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350190956725:android:0711a2d90cf65f60",
+        "android_client_info": {
+          "package_name": "com.example.rikit.fashionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350190956725-m8umo73icfslgq44qpgrlmsvu4v40oja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rikit.fashionapp",
+            "certificate_hash": "04c196d019482266814e3cd842f1eeb4d8904d35"
+          }
+        },
+        {
+          "client_id": "350190956725-82g8ka4n73gf20rjho0ppoooa0g0pk9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABV0J8kwQkx5YhSSA2OZL_5iot5lHvig4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350190956725-82g8ka4n73gf20rjho0ppoooa0g0pk9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
